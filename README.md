@@ -22,6 +22,7 @@ RECONORNE is a powerful and efficient OSINT (Open Source Intelligence) & reconna
 ```bash
 git clone https://github.com/CyberPhantom9288/RECONORNE.git
 cd RECONORNE
+cd RECONORNE
 pip install -r requirements.txt
 python3 RECONORNE.py
 ```
