@@ -33,6 +33,7 @@ Reconorne helps you collect subdomains, live assets, wayback data, and extract s
 # Clone the repo
 git clone https://github.com/CyberPhantom9288/Reconorne.git
 cd Reconorne
+python3 Reconorne.py
 
 # Install dependencies
 pip install -r requirements.txt
