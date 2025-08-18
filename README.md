@@ -5,28 +5,41 @@ Reconorne helps you collect subdomains, live assets, wayback data, and extract s
 
 ---
 
-## ✨ Features  
-- 🔎 **Subdomain Enumeration**  
-  - Collects subdomains from `crt.sh`, `CertSpotter`, and DNS brute-force.  
+🚀 Features
 
-- 🌐 **Alive Checking**  
-  - Multi-threaded detection of live subdomains and URLs.  
+Subdomain enumeration via crt.sh, CertSpotter API, and DNS brute-force
 
-- 📜 **Wayback Machine Integration**  
-  - Fetches historical URLs from the Internet Archive.  
+Multi-threaded alive checking for subdomains and URLs
 
-- 🎯 **URL Filtering**  
-  - Extract URLs with parameters (`?`)  
-  - Filter by file extensions (`js, pdf, zip, env, log...`)  
-  - Include / Exclude URLs based on keywords.  
+Fetches archived URLs from the Wayback Machine
 
-- 🧩 **Information Extraction**  
-  - Emails  
-  - Technologies (Apache, Nginx, Node.js, WordPress, etc.)  
-  - IP addresses  
-  - Databases (MySQL, PostgreSQL, MongoDB, etc.)  
-  - Secrets & leaks (API keys, tokens, passwords)  
-  - Interesting files (`.js`, `.sql`, `.zip`, `.env`, `.log`)  
+Supports smart URL filtering:
+
+Parameter URLs (?)
+
+File extensions (.js, .pdf, .sql, .zip, .env, .log)
+
+Include/Exclude keywords for precise targeting
+
+Extracts useful information from live URLs:
+
+Emails
+
+Technologies (Apache, Nginx, Node.js, WordPress, Drupal, etc.)
+
+IP addresses
+
+Databases (MySQL, PostgreSQL, MongoDB, Oracle, etc.)
+
+Secrets & leaks (api_key, token, password, secret, etc.)
+
+Interesting files (.js, .sql, .zip, .env, .log)
+
+Organized output stored in /output directory with separate files
+
+Graceful error handling & clean CLI output
+
+Works on Kali Linux and other Linux distros with Python 3
 ---
 
 ## ⚙️ Installation  
