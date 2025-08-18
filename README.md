@@ -1,4 +1,4 @@
-# 🕵️ Reconorne - Recon & OSINT Toolkit v2.0  
+# 🕵️ Reconorne - Recon & OSINT Toolkit   
 
 🚀 A powerful automated reconnaissance and OSINT tool for **Bug Bounty Hunters** & **Penetration Testers**.  
 Reconorne helps you collect subdomains, live assets, wayback data, and extract sensitive information — all in one go.  
