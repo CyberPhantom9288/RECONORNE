@@ -37,3 +37,11 @@ python3 Reconorne.py
 
 # Install dependencies
 pip install -r requirements.txt
+
+⚠️ Disclaimer
+
+* This tool is created for educational and research purposes only.
+* The author is not responsible for any misuse or illegal activity carried out using this tool.
+* Use this tool only on domains and systems you own, or where you have explicit permission to test.
+* Unauthorized use of this tool against systems you don’t own may be illegal and punishable under law.
+
